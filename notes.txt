@@ -1,5 +1,0 @@
-1. needs to test with other method ta3 resampling : done
-2. try to standrize depths in the extracted data (using (splin/standraozation )(equal area spin algorithme)) : done
-3. treatment ta3 les unities : done 
-4. treating th emissing values using two different methods (knn wela nkhyrou method ta3 kifah nktbou depth)
-5. scanned files (to treate)
